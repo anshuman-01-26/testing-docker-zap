@@ -4,7 +4,6 @@
 <ol>
 <li>Downloaded the weekly docker image of zap</li>
 </ol>
-<br>
 
 ## 26-09-2022
 <ol>
@@ -13,3 +12,12 @@
 <li>Generated the report as JSON file and saw the attributes in the file</li>
 </ol>
 
+## 27-09-2022
+<ol>
+<li>Look for different scan rules for the customised config file</li>
+</ol>
+
+## 28-09-2022
+<ol>
+<li>Continuing the same work as the previous day</li>
+</ol>
