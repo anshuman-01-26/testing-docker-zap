@@ -20,4 +20,5 @@
 ## 28-09-2022
 <ol>
 <li>Continuing the same work as the previous day</li>
+<li>Selected scan rules that are needed</li>
 </ol>
