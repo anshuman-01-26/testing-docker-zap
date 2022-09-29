@@ -22,3 +22,8 @@
 <li>Continuing the same work as the previous day</li>
 <li>Selected scan rules that are needed</li>
 </ol>
+
+## 29-09-2022
+<ol>
+<li>Completed the config file</li>
+</ol>
