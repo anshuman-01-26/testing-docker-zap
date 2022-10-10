@@ -1,4 +1,4 @@
-function scan(ps,msg,src){
+function scan(as,msg,src){
     /*This script will contain logic that will test for different vulnerabilities*/
 
     /*Logic for Authentication*/
@@ -8,7 +8,7 @@ function scan(ps,msg,src){
     /*check if status code is still 200 without the authentication being there */
 
     if(auth_header==null && msg.getResponseHeader().getStatusCode()==200){
-        ps.raiseAlert(3, 3, "Authentication Failure", "Add Authentication to the system", msg.getRequestHeader().getURI().toString(), '', '', '', "Add somthing to authenticate", '', 200, 13, msg);
+        as.raiseAlert(3, 3, "Authentication Failure", "Add Authentication to the system", msg.getRequestHeader().getURI().toString(), '', '', '', "Add somthing to authenticate", '', 200, 13, msg);
     }
 
 
