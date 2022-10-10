@@ -27,3 +27,8 @@
 <ol>
 <li>Completed the config file</li>
 </ol>
+
+## 10-10-2022
+<ol>
+<li>Going to write custom scripts</li>
+</ol>
