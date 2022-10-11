@@ -40,7 +40,7 @@ function scan(as,msg,param,value){
         for(var j=0;j<search_quries.length;j++){
             param.set(search_quries[j],injections[i])
         }
-        console.log(new_url.searchParams)
+        /*Write the logic for request and check the response*/
     }
 
 

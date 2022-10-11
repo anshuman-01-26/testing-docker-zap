@@ -32,3 +32,9 @@
 <ol>
 <li>Going to write custom scripts</li>
 </ol>
+
+## 11-10-2022
+<ol>
+<li>Completed a portion of the SQL injection script</li>
+<li>Wrote the README of the repository</li>
+</ol>
