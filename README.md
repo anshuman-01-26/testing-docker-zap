@@ -38,3 +38,16 @@
 <li>Completed a portion of the SQL injection script</li>
 <li>Wrote the README of the repository</li>
 </ol>
+
+## 12-10-2022
+<ol>
+<li>Compketed the main logic of SQL injection script</li>
+</ol>
+
+## 13-10-2022
+<ol>
+<li>Had a conversation with Chandrakanth upon the script</li>
+<li>Discussed upon adding different types of SQL injection</li>
+<li>Checked different types of SQL injection</li>
+</ol>
+
