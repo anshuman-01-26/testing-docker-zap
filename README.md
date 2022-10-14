@@ -51,3 +51,8 @@
 <li>Checked different types of SQL injection</li>
 </ol>
 
+## 14-10-2022
+<ol>
+<li>Gathered all syntax for different types of SQL</li>
+<li>Wrote different scripts for different types of SQL</li>
+</ol>
