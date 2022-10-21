@@ -57,14 +57,19 @@
 <li>Wrote different scripts for different types of SQL</li>
 </ol>
 
-## 15-10-2022
+## 17-10-2022
 <ol>
 <li>Tried testing the scripts in ZAP but got errors</li>
 <li>Problem was i had written in pure javascript thinking that ZAP would support pure javascript</li>
 <li>Modified a few things in the code</li>
 </ol>
 
-## 16-10-2022
+## 18-10-2022
 <ol>
 <li>Completed the sql injections script</li>
+</ol>
+
+## 20-10-2022
+<ol>
+<li>Gathered information on LDAP and XSS injection</li>
 </ol>
