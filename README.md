@@ -73,3 +73,10 @@
 <ol>
 <li>Gathered information on LDAP and XSS injection</li>
 </ol>
+
+## 21-10-2022
+<ol>
+<li>Discussed with Chandrakantha that need to postpone XSS script</li>
+<li>Verified the broken authentication script with Chandrakantha</li>
+<li>Discussed on JWT attack</li>
+</ol>
