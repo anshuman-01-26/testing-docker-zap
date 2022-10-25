@@ -85,4 +85,5 @@
 <ol>
 <li>Read articles and watched videos on JWT</li>
 <li>Looking for solutions to convert ZAP report to JUnit XML</li>
+<li>Looked for some article suggesting how to trigger a github action when something happens on some other repository</li>
 </ol>
