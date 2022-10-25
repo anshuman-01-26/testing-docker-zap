@@ -80,3 +80,9 @@
 <li>Verified the broken authentication script with Chandrakantha</li>
 <li>Discussed on JWT attack</li>
 </ol>
+
+## 25-10-2022
+<ol>
+<li>Read articles and watched videos on JWT</li>
+<li>Looking for solutions to convert ZAP report to JUnit XML</li>
+</ol>
