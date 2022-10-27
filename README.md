@@ -87,3 +87,9 @@
 <li>Looking for solutions to convert ZAP report to JUnit XML</li>
 <li>Looked for some article suggesting how to trigger a github action when something happens on some other repository</li>
 </ol>
+
+## 27-10-2022
+<ol>
+<li>Installed python on my system</li>
+<li>Defined the Nunit XML structure of the report</li>
+</ol>
