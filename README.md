@@ -93,3 +93,8 @@
 <li>Installed python on my system</li>
 <li>Defined the Nunit XML structure of the report</li>
 </ol>
+
+## 28-10-2022
+<ol>
+<li>Writting the script for converting the JSON report to NUnit XML format</li>
+</ol>
