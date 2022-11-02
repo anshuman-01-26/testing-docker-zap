@@ -98,3 +98,15 @@
 <ol>
 <li>Writting the script for converting the JSON report to NUnit XML format</li>
 </ol>
+
+## 31-10-2022
+<ol>
+<li>Wrote the correct script to convert JSON to XML</li>
+<li>Did some research</li>
+</ol>
+
+## 2-11-2022
+<ol>
+<li>Did some research on Authentication script</li>
+<li>Did some research on Fuzzing API</li>
+</ol>
